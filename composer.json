@@ -1,0 +1,10 @@
+{
+    "name": "fuelingphp/demo-docker-php",
+    "description": "For demo purposes",
+    "autoload": {
+        "psr-4": {
+            "Fuelingphp\\DemoDockerPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
